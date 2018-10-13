@@ -1,0 +1,55 @@
+#announcement-panel {
+  background-image: url("../images/green-leaves.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#announcement-panel {
+  padding-top: 120px;
+  padding-bottom: 80px;
+}
+
+#announcement-header,
+#announcement-subheader {
+  color: white;
+  background-color: rgba(38, 77, 0, 0.7);
+  padding: 5px;
+}
+
+#announcement-header {
+  font-size: 4em;
+}
+
+#announcement-subheader {
+  font-size: 2em;
+}
+
+#form,
+#results {
+  padding: 40px;
+}
+
+#home-energy-label,
+.fa-home {
+  color: #ff8c00;
+}
+
+#travel-label,
+.fa-globe {
+  color: #008b8b;
+}
+
+#waste-label,
+.fa-recycle {
+  color: #228b22;
+}
+
+.progress-bar {
+  font-size: 1.2em;
+}
+
+.score-info {
+  padding: 10px;
+  margin: 0;
+}

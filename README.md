@@ -1,2 +1,0 @@
-# carbonfootprint
-Created with CodeSandbox
